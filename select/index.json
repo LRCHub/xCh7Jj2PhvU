@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "JUMPIN' PARTY",
+  "base_artist": "田中有紀",
+  "createdAt": "2026-01-04T06:13:03.557630Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUMPIN' PARTY",
+      "artist": "田中有紀",
+      "has_synced": false,
+      "path": "select/pl_01_JUMPIN'_PARTY_田中有紀.txt"
+    }
+  ]
+}
