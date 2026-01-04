@@ -1,0 +1,64 @@
+# 田中有紀 – JUMPIN' PARTY
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+3,2,1 Go!
+抑圧や偽装 もういいかい?
+心に秘めたColorfulなPassion
+(Wow oh oh Wow oh oh oh oh)
+世界中彩って
+耐え忍んだEverybody
+待ち望むのは 感動 Nonfiction
+(Wow oh oh Wow oh oh oh oh)
+期待しちゃっていいよね
+永遠じゃないこの瞬間
+存分に味わってこう Right?
+心のまま飛べ JUMPIN' PARTY
+愛がFull throttle
+ほら、天高く拳掲げて
+(繋ぐキズナ-Sign-)
+命果てるまで FIGHTIN' SPIRIT
+燃やして突っ走れ
+出逢ったあの日芽生えた想い
+それこそ、僕のプライド
+(Hey!) JUMPIN' PARTY
+鬱憤全部バネにして
+解き放て 道なき道へ Go!
+(Let's roll!) 一か八か ギリギリLife
+(Showdown!) ゴメンだけどやめられない (Hey!)
+ひとまず ここらで運試しといこう
+準備 (Yeah!)はOK? (Yeah!)
+じゃんけんぽん!
+キミこそまさに Winner (Oh Yeah!)
+負けても俯くな (OK!)
+あいこならば One more! (One more!)
+Oh Yeah! (Oh Yeah!) OK! (OK!)
+出し惜しみなんて No way!
+がむしゃらに挑め JUMPIN' PARTY
+沸き立つEmotion
+言葉以上の想い託して
+(起こすキセキ-Magic-)
+恐れを脱ぎ捨て FIGHTIN' SPIRIT
+未体験のミライへ
+ここで叶えたい夢がある
+なりふり構ってられない
+(Hey!) JUMPIN' PARTY
+一切合切捧げるよ
+勝ち誇れ 届け 何度だって Try!
+跳べ 跳べ 地球(ほし)を蹴って
+跳べ 跳べ 掴み取って
+跳べ 跳べ キミらしく
+跳べ 跳べ Oh Yeah! (Oh Yeah!)
+心のまま飛べ JUMPIN' PARTY
+愛がFull throttle
+ほら、天高く拳掲げて
+(繋ぐキズナ-Sign-)
+命果てるまで FIGHTIN' SPIRIT
+燃やして突っ走れ
+出逢ったあの日芽生えた想い
+それこそ、僕のプライド
+(Hey!) JUMPIN' PARTY
+鬱憤全部バネにして
+解き放て 道なき道へ Go!
+```
